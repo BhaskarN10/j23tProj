@@ -1,6 +1,5 @@
 package org.j23t.dev.lessons20;
 
-import com.java.lesson20.MyBaseClass;
 
 public class MyDerivedClass extends MyBaseClass {
 		String	ddefString ;
@@ -20,7 +19,7 @@ public class MyDerivedClass extends MyBaseClass {
 	public void testBaseclassAccess() {
 		defString = "10" ;
 		pubString = "20" ;
-		prvtString = "30" ;
+	//	prvtString = "30" ;
 		protString = "40" ;		
 }
 	

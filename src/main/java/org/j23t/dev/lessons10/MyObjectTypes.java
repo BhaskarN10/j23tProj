@@ -1,7 +1,8 @@
 package org.j23t.dev.lessons10;
 
 public class MyObjectTypes {
-	
+
+	// also called attributes
 	public	Integer		myInteger ;	// instance variable
 	public  Long		myLong ;
 	public	Float		myFloat ;

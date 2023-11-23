@@ -4,37 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0422620c-8770-4705-9c11-f814484a81ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/MyAbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/MyBasicClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/MyExtendedClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/MyImplementedClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/MyObjectTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/MyPrimitiveTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/MyStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons20/MyAccessSpecifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons20/MyBaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons20/MyDerivedClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons30/MyAlgorithms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons30/MyDerivedPkg30Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons30/MyLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons30/MyMaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons30/MyTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons40/MyDeadLocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons40/MyThreads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons50/MyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons50/MyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons60/MyFileBufferedIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons60/MyFileIO.java" afterDir="false" />
+    <list default="true" id="0422620c-8770-4705-9c11-f814484a81ce" name="Changes" comment="Initial commit for coding tutorials">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/CalculateArea.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons90/Dept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons90/Empl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons90/My10Types.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons90/MySwap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons90/Tsheet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/MyAbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/MyAbstractClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/MyBasicClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/MyBasicClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/MyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/MyExtendedClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/MyExtendedClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/MyImplementedClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/MyImplementedClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/MyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/MyInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/MyObjectTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/MyObjectTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/MyPrimitiveTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/MyPrimitiveTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons20/MyDerivedClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons20/MyDerivedClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +41,11 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="workspaceImportEnabled" value="true" />
@@ -72,7 +63,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/AppDev23/Java23a/j23tProj/src/main/java/org/j23t/dev/lessons60"
+    "last_opened_file_path": "C:/AppDev23/Java23a/j23tProj.zip",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -84,7 +76,59 @@
       <recent name="C:\AppDev23\Java23a\j23tProj\src\main\java\org\j23t\dev\lessons20" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MyExtendedClass">
+    <configuration name="CalculateArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.j23t.dev.lessons10.CalculateArea" />
+      <module name="j23t" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.j23t.dev.lessons10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyAbstractClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.j23t.dev.lessons10.MyAbstractClass" />
+      <module name="j23t" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.j23t.dev.lessons10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBasicClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.j23t.dev.lessons10.MyBasicClass" />
+      <module name="j23t" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.j23t.dev.lessons10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyExtendedClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.j23t.dev.lessons10.MyExtendedClass" />
+      <module name="j23t" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.j23t.dev.lessons10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="j23tProj" />
       <method v="2">
@@ -98,6 +142,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyExtendedClass" />
+        <item itemvalue="Application.MyBasicClass" />
+        <item itemvalue="Application.CalculateArea" />
+        <item itemvalue="Application.MyAbstractClass" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -108,6 +160,34 @@
       <option name="presentableId" value="Default" />
       <updated>1689845232595</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit for coding tutorials">
+      <created>1689846607857</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689846607857</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit for coding tutorials" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit for coding tutorials" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons10/CalculateArea.text</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/j23t/dev/lessons90/MySwap.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

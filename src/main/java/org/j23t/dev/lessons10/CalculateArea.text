@@ -1,0 +1,39 @@
+package org.j23t.dev.lessons10;
+
+// package sets boundary for classes
+public class CalculateArea {
+
+    // data and methods
+    int   width ;  // rectangle
+    int   length ;
+    int   area ;
+
+    int computeArea() {
+        area = width * length ;
+        return area ;
+    }
+
+    void printArea() {
+        System.out.println("Area = " + area );
+    }
+
+    public static void main( String[] args ) {
+
+        CalculateArea ca = new CalculateArea();  // instantiating a class
+        // ca is object
+        ca.length = 10 ;  // assigned 10 to the length variable
+        ca.width = 2 ;
+        ca.computeArea();  // called a function
+        ca.printArea();
+
+        CalculateArea yourca = new CalculateArea();  // instantiating a class
+        // yourca is another object
+        yourca.length = 21 ;  // assigned 10 to the length variable
+        yourca.width = 12 ;
+        yourca.computeArea();  // called a function
+        yourca.printArea();
+
+    }
+
+
+}

@@ -16,4 +16,5 @@ public class MyException extends Exception {
 	public String getExceptionMesg() {
 		return myMesg ;
 	}
+
 }

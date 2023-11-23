@@ -1,13 +1,18 @@
 package org.j23t.dev.lessons10;
 
-import com.java.lesson10.MyInterface;
 
 public class MyImplementedClass implements MyInterface {
 
 	@Override
 	public void myIntMethod() {
-		// TODO Auto-generated method stub
+		//  see myInterface
 		System.out.println("myIntMethod: Test");
+	}
+
+	public static void main( String[] args ) {
+		MyImplementedClass mic = new MyImplementedClass() ;
+		mic.myIntMethod();
+		System.out.println("Implemnted class example");
 	}
 
 }

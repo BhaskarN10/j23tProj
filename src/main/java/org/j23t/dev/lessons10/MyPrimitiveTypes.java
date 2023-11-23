@@ -53,6 +53,5 @@ public class MyPrimitiveTypes {
 	public void setMyBoolean(boolean myBoolean) {
 		this.myBoolean = myBoolean;
 	}
-	
 
 }
